@@ -11,5 +11,4 @@ Tools and Technologies
 Playwright: Primary framework for browser automation and testing.
 Pytest: Used to structure and execute test cases efficiently.
 Python: Core programming language for writing test scripts.
-Nox App Player: Emulator for testing web applications in a simulated Android environment.
-OS Library: Used for interacting with system-level features like scrolling or file manipulation.
+
