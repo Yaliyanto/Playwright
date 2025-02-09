@@ -10,9 +10,9 @@ The project focuses on **scalability, reusability, and simplicity** in automatio
 
 - **Test Framework**: Built with Playwright, offering a powerful and flexible testing environment.
 - **End-to-End Testing**: Automated workflows from user login to logout scenarios.
-- **Cross-Browser Support**: Scripts designed to run on multiple browsers like Chromium, Firefox, and WebKit.
+- **Cross-Browser Support**: Scripts designed to run on multiple browsers like Chromium
 - **Reusable Code**: Modular test structure for better maintainability and extension.
-- **Scalable Design**: Supports CI/CD pipeline integration for continuous testing.
+
 
 ---
 
